@@ -4,8 +4,9 @@
     assign values for each column some tables are many to many relationship so need to set multiple primary keys and foreign keys
     Import table information from CSV, the tables need to be imported in the following order for PK and FK
      (titles, departments, employees, dept_emp, salaries, dept_manager)
-2. I imported the SQL into QuickDBD to produce the ERD diagram loaded into GITHUB as a PNG file
-3. I wrote the queries for the following questions:
+  ** Schema and Queries loaded into the same SQL (Employee_Schema_Queries.SQL)
+3. I imported the SQL into QuickDBD to produce the ERD diagram loaded into GITHUB as a PNG file
+4. I wrote the queries for the following questions:
 
    Data Analysis
 
